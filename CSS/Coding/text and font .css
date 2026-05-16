@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Text */
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: darkblue;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Link */
+a {
+    text-decoration: none;
+    color: red;
+}
+
+/* Font styles */
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+</style>
+</head>
+<body>
+
+<h1>Text and Font CSS</h1>
+
+<p>This is a paragraph with proper spacing and font size.</p>
+
+<p><strong>Bold Text</strong> and <em>Italic Text</em></p>
+
+<a href="#">Click Here</a>
+
+</body>
+</html>
